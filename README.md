@@ -1,5 +1,5 @@
 # A APS será avaliada considerando os seguintes critérios:
-###Interesse geral dos dados. Considere, preferencialmente, dados relacionados ao contexto da escola.
+### Interesse geral dos dados. Considere, preferencialmente, dados relacionados ao contexto da escola.
 - No início do relatório faça uma descrição completa que justifique o interesse nos dados analisados.
 
 ### Clareza na apresentação do problema e dos objetivos da análise.
